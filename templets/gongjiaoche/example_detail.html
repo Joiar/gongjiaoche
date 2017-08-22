@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>案例详情</title>
+<meta name="viewport" content="width=1300">
+
+<link rel="stylesheet" href='{dede:global.cfg_basehost/}/style/css/style.css' type="text/css" />
+<link rel="stylesheet" type="text/css" href="{dede:global.cfg_basehost/}/style/css/mislider.css">
+<link rel="stylesheet" type="text/css" href="{dede:global.cfg_basehost/}/style/css/example_detail.css">
+</head>
+<body id="PageTop">
+
+<div class="wrap">
+<header class="Header clear">
+    <h1 class="Logo"><a href="home.html"><img src="{dede:global.cfg_basehost/}/style/img/logo-header.png"  ></a></h1>
+    <a class="Nav" href="javascript:window.opener=null;window.open('','_self');window.close();"><img src="{dede:global.cfg_basehost/}/style/img/close.png"></a>
+</header>
+
+<div class="Container">
+	<div class="Container__inner">
+        <div class="detail">
+            <div class="title">
+                <h3>{dede:field.title/}</h3>
+            </div>
+            <div class="txt">
+                {dede:field.body/}
+            </div>
+            <div class="bottom">
+                <div class="bottom_share" style="overflow: hidden;">
+                    <div style="float: right;" class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a></div>
+                    <script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"24"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/{dede:global.cfg_basehost/}/style/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+                </div>
+                <div class="bottom_btn">
+                    <p class="prev">{dede:prenext get='pre'/}</p>
+                    <p class="next">{dede:prenext get='next'/}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="Footer clear">
+    <p class="Footer__copy"><small><img src="{dede:global.cfg_basehost/}/style/img/copyright.png" height="13" width="271" alt="© 广州宝珑广告®  版权所有   粤ICP备14040115号-1"></small></p>
+</footer>
+</div>
+
+</body>
+</html>

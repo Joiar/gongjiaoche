@@ -1,0 +1,43 @@
+.Nav{border: none;}
+h1,h2{font-weight: normal;}
+.media{width: 1200px;margin: 50px auto 60px;color: #070707;font-size: 14px;overflow: hidden;clear: both;}
+.mediaLeft{width: 954px;float: left;}   
+.mediaLeft span{display: block;}
+.mediaLeft em{color: #e70011;font-style: normal;}
+.advantage h1{font-size: 24px;line-height: 44px;}
+.advantage span{font-size: 20px;color: #e60012;}
+.advantage h2{font-size: 14px;padding-bottom: 14px;}
+.advantage img{margin-bottom: 20px;}   
+
+.coverOne{overflow: hidden;clear: both;margin: 20px auto;}
+.coverOne span{float: left;width: 170px;margin: 62px 80px 0 0;}
+.coverOne span h2{font-size: 14px;}
+.coverOne span p{line-height: 24px;}
+.coverOne img{float: left;}
+.coverOne span:first-child+img{margin-right: 70px;}
+
+.coverTwo>span{overflow: hidden;clear: both;}
+.coverTwo h1{font-size: 14px;}
+.coverTwo h2{font-size: 16px;line-height: 28px;}
+.coverTwo p{line-height: 24px;}
+.coverTwo>span{margin-bottom: 20px;}
+.coverTwo>span>span{padding-top: 130px;}
+.coverTwo>span:first-child img{float: left;}
+.coverTwo>span:first-child>span{float: right;text-align: right;}
+	.coverTwo>span:first-child+span img{float: right;}
+.coverTwo>span:first-child+span>span{float: left;}  
+
+.coverThree{margin-top: 20px;}
+.coverThree ul{overflow: hidden;clear: both;} 
+.coverThree li{float: left;margin-bottom: 16px;width: 424px;height: 322px;background: url(../img/compare.png) no-repeat 444px 66px;}
+.coverThree li h2{font-size: 16px;height: 60px;line-height: 60px;}
+.coverThree li h2 span{display: inline;font-size: 14px;}
+.coverThree li p{line-height: 24px;margin: 0px;width: 424px;}
+
+.mediaNav{float: right;margin-top: 58px;}
+.mediaNav h1{font-size: 36px;line-height: 35px;}
+.mediaNav span{font-size: 30px;color: #cccccc;display: block;}
+.mediaNav ul{margin: 44px 0 0 34px;}    
+.mediaNav li{width: 96px;line-height: 20px;border-bottom: 2px solid #4267b2;margin-bottom: 20px;}
+.mediaNav li a{display: block;font-size: 16px;color: #070707;padding-bottom: 10px;}
+.mediaNav li:first-child+li+li{border-color: #e60012;}

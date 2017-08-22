@@ -1,0 +1,16 @@
+.Nav{border: none;}
+.detail{width: 1200px;margin: 0 auto;}
+.detail .title{text-align: center;}
+.detail .title h3{color: #070707;font-size:24px;font-weight: normal;}
+
+.detail .txt{margin-top: 20px;}
+.detail .txt p{text-indent: 2em;text-align: justify;color: #333333;font-size: 16px;line-height: 24px;margin-bottom: 24px;}
+.detail .txt{text-align: center;}
+.detail .txt img{margin:  10px 0;max-width: 1200px;}
+
+.detail .bottom_share{padding: 20px 0 ;border-bottom: 1px dashed #999999;}
+.detail .bottom_btn{overflow: hidden;padding: 25px 0 50px;}
+.detail .bottom_btn a{color: #999999;font-size: 16px;}
+.detail .bottom_btn a.prev{float: left;}
+.detail .bottom_btn a.next{float: right;}
+.detail .bottom_btn a:hover{color: #e60012;}

@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>主营媒体</title>
+<meta name="viewport" content="width=1300">
+
+<link rel="stylesheet" href='{dede:global.cfg_basehost/}/style/css/style.css' type="text/css" />
+<link rel="stylesheet" type="text/css" href="{dede:global.cfg_basehost/}/style/css/mislider.css">
+<link rel="stylesheet" type="text/css" href="{dede:global.cfg_basehost/}/style/css/media_bus.css">
+</head>
+<body id="PageTop">
+
+<div class="wrap">
+<header class="Header clear">
+    <h1 class="Logo"><a href="home.html"><img src="{dede:global.cfg_basehost/}/style/img/logo-header.png"  ></a></h1>
+    <a class="Nav" href="javascript:window.opener=null;window.open('','_self');window.close();"><img src="{dede:global.cfg_basehost/}/style/img/close.png"></a>
+</header>
+<div class="Container">
+	<div class="Container__inner">
+        <div class="detail">
+            <div class="title">
+                <h3>公交车</h3>
+            </div>
+            <div class="bus_1">
+                <div class="bus_1_item">
+                    <span>公交车广告投放——千人成本最低 </span>
+                    <img src="{dede:global.cfg_basehost/}/style/img/bus_1.png">
+                </div>
+                <div class="bus_1_item">
+                    <span>公交车广告投放——千人成本最低 </span>
+                    <img src="{dede:global.cfg_basehost/}/style/img/bus_2.png">
+                </div>
+            </div>
+            <div class="bus_2">
+                <span>广州公交车车身广告特点</span>
+                <div class="item_list">
+                    <div class="item right">
+                        <div class="txt">
+                            <img src="{dede:global.cfg_basehost/}/style/img/bus_right.png">
+                            <p>50平方米巨大的流动广告牌</p>
+                            <p>最佳的视线效果！</p>
+                            <p>低成本，高效益！</p>
+                            <p>有独树一帜的创意！</p>
+                        </div>
+                    </div>
+                    <div class="item img">
+                        <img src="{dede:global.cfg_basehost/}/style/img/bus_3.png">
+                    </div>
+                    <div class="item bottom">
+                        <div class="txt">
+                            <p>可助您迅速提升品牌知名度！</p>
+                            <p>在市场中建立清晰的品牌形象！</p>
+                            <img src="{dede:global.cfg_basehost/}/style/img/bus_bottom.png">
+                        </div>
+                    </div>
+                    <div class="item img">
+                        <img src="{dede:global.cfg_basehost/}/style/img/bus_4.png">
+                    </div>
+                    <div class="item left">
+                        <div class="txt">
+                            <img src="{dede:global.cfg_basehost/}/style/img/bus_left.png">
+                            <p>50平方米巨大的流动广告牌 !</p>
+                            <p>加深品牌印象</p>
+                            <p>在售点附近接触消费者</p>
+                        </div>
+                    </div>
+                    <div class="item img">
+                        <img src="{dede:global.cfg_basehost/}/style/img/bus_5.png">
+                    </div>
+                    <div class="item right right2">
+                        <div class="txt">
+                            <img src="{dede:global.cfg_basehost/}/style/img/bus_right.png">
+                            <p>工作时间最长的媒体！</p>
+                            <p>每天上路16个小时!</p>
+                            <p>广告面积大，强大视觉冲击力！</p>
+                        </div>
+                    </div>
+                    <div class="item img">
+                        <img src="{dede:global.cfg_basehost/}/style/img/bus_6.png">
+                    </div>
+                    <div class="item">
+                        <div class="txt">
+                            <p><span style="color: red;">注:</span>工作时间最长的媒体！</p>
+                            <p>每天上路16个小时!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="bus_3">
+                <span>广州公交车车身广告特点</span>
+                <div class="item_list">
+                    <div class="item">
+                        <img src="{dede:global.cfg_basehost/}/style/img/bus_7.png">
+                        <p>广州公交线路媒体资源</p>
+                    </div>
+                    <div class="item">
+                        <img src="{dede:global.cfg_basehost/}/style/img/bus_8.png">
+                        <p>深圳公交线路媒体资源</p>
+                    </div>
+                    <div class="item">
+                        <img src="{dede:global.cfg_basehost/}/style/img/bus_9.png">
+                        <p>番禺公交线路媒体资源</p>
+                    </div>
+                    <div class="item">
+                        <img src="{dede:global.cfg_basehost/}/style/img/bus_10.png">
+                        <p>中山公交线路媒体资源</p>
+                    </div>
+                    <div class="item">
+                        <img src="{dede:global.cfg_basehost/}/style/img/bus_11.png">
+                        <p>珠海公交线路媒体资源</p>
+                    </div>
+                    <div class="item">
+                        <img src="{dede:global.cfg_basehost/}/style/img/bus_12.png">
+                        <p>佛山公交线路媒体资源</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="Footer clear">
+    <p class="Footer__copy"><small><img src="{dede:global.cfg_basehost/}/style/img/copyright.png" height="13" width="271" alt="© 广州宝珑广告®  版权所有   粤ICP备14040115号-1"></small></p>
+</footer>
+</div>
+
+</body>
+</html>
